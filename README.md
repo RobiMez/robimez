@@ -3,18 +3,16 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/reubenm404?color=%231DA1F2&label=%40reubenm404&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-<!-- 
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums -->
+
+-  I’m currently working on learning the MERN stack !
+-  I’m currently learning everything 
+-  I love to draw and play guitar 
 
 <br />
 
 
-[![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/RobiMez/github-readme-stats)
+[![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/RobiMez/github-readme-stats)
 
 
 
