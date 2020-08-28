@@ -12,7 +12,7 @@
 <br />
 
 
-[![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/RobiMez/github-readme-stats)
+[![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&&hide=prs&count_private=true&show_icons=true&theme=tokyonight&bg_color=45,0e2e2e,102531)](https://github.com/RobiMez/github-readme-stats)
 
 
 
