@@ -1,15 +1,13 @@
 ### Hi there, I'm Reuben  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align='right' src='https://thumbs.gfycat.com/BleakGorgeousAmoeba-size_restricted.gif' width='270'>
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/reubenm404?color=%231DA1F2&label=%40reubenm404&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobimez&screen_name=reubenm404)
 
 -  I’m currently learning everything lol. 
 -  I love to draw and play guitar .
 
 <br />
 
+<img align='right' src='https://thumbs.gfycat.com/BleakGorgeousAmoeba-size_restricted.gif' width='270'>
 
 [![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&count_private=true&show_icons=true&theme=dark)](https://github.com/RobiMez/github-readme-stats)
 
