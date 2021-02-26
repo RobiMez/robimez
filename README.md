@@ -1,10 +1,8 @@
 ## Hi there, I'm Reuben 
 ### You can call me Robi
 
--  I'm Unsure .
--  I love to play Minecraft ,Starbound and Valorant.
+-  I love to play Minecraft, Starbound and Valorant.
 
-<br />
 
 <img align='right' src='https://thumbs.gfycat.com/BleakGorgeousAmoeba-size_restricted.gif' width='320'>
 
@@ -14,6 +12,5 @@
 
 ### Languages and Tools:
 
-I do Web Development sometimes with react sometimes with the vanilla stack, as my base skill.
-and i do api stuff , telegram bots and general tech savvy stuff as a side thing .
+I do Web Development with react and the vanilla stack, Api stuff , Telegram bots and General Techfoolery .
 
