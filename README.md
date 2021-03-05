@@ -15,6 +15,6 @@
 I do Web Development with react and the vanilla stack, Api stuff , Telegram bots and General Techfoolery .
 
 ### TODO:
-  make the qr id thingy 
-  make nhentai and hanime gui apps 
-  revamp anicons wiht gui 
+  * make the qr id thingy 
+  * make nhentai and hanime gui apps 
+  * revamp anicons wiht gui 
