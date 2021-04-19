@@ -1,20 +1,24 @@
-## Hi there, I'm Reuben 
-### You can call me Robi
-
--  I love to play Minecraft, Starbound and Valorant.
-
+# Robi
 
 <img align='right' src='https://thumbs.gfycat.com/BleakGorgeousAmoeba-size_restricted.gif' width='320'>
 
 [![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&count_private=true&show_icons=true&theme=dark)](https://github.com/RobiMez/github-readme-stats)
 
+## Technical skills
 
+### Languages
 
-### Languages and Tools:
+HTML5, CSS3, Javascript, Python, Node JS, Mongodb, SQLite
 
-I do Web Development with react and the vanilla stack, Api stuff , Telegram bots and General Techfoolery .
+### Frameworks
 
-### TODO:
-  * make the qr id thingy 
-  * make nhentai and hanime gui apps 
-  * revamp anicons wiht gui 
+Bootstrap, SASS, JQuery, Express, React, Vue, Next.js,
+D3.js, Django, Flask, Telegram API,
+
+### Tools
+
+VScode, Github, Yarn, Git, NPM, Pypi, Azure, Heroku, CI, Docker, Bash
+
+### Additional Experience
+
+Application Deployment, Database Management, Unit Testing, Windows, Ubuntu, TeamProgramming, Pair Programming, REST API, NOSQL
