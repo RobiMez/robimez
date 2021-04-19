@@ -3,6 +3,10 @@
 <img align='right' src='https://thumbs.gfycat.com/BleakGorgeousAmoeba-size_restricted.gif' width='320'>
 
 [![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&count_private=true&show_icons=true&theme=dark)](https://github.com/RobiMez/github-readme-stats)
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Technical skills
 
