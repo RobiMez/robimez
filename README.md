@@ -4,7 +4,7 @@
 
 [![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&count_private=true&show_icons=true&theme=dark)](https://github.com/RobiMez/github-readme-stats)
 ---
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vy6ne4sn1wcemvxhp0qti58n5&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
