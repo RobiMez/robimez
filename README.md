@@ -48,9 +48,9 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 ## Technical skills
 
-### Languages
+### Technologies 
 
-HTML5, CSS3, Javascript, Python, Node JS, Mongodb, SQLite
+Web, Python, Node JS
 
 ### Frameworks
 
@@ -63,4 +63,4 @@ VScode, Github, Yarn, Git, NPM, Pypi, Azure, Heroku, CI, Docker, Bash
 
 ### Additional Experience
 
-Application Deployment, Database Management, Unit Testing, Windows, Ubuntu, TeamProgramming, Pair Programming, REST API, NOSQL
+Application Deployment, Database Management, Unit Testing, Linux, TeamProgramming, Pair Programming, REST API, NOSQL
