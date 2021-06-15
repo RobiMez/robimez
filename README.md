@@ -26,17 +26,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            █████████░░░░░░░░░░░░░░░░   39.29% 
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14% 
-CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+Python                   12 repos            ██████████░░░░░░░░░░░░░░░   41.38% 
+JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   31.03% 
+CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
 
 ```
 
 
 
- Last Updated on 14/06/2021
+ Last Updated on 15/06/2021
 <!--END_SECTION:waka-->
 
 ## Technical skills
