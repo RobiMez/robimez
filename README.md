@@ -1,7 +1,5 @@
 # Robi
 
-<img align='right' src='https://thumbs.gfycat.com/BleakGorgeousAmoeba-size_restricted.gif' width='320'>
-
 [![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&count_private=true&show_icons=true&theme=dark)](https://github.com/RobiMez/github-readme-stats)
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K74LSLU)
