@@ -15,13 +15,14 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 3 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Emvc_bot                 52 mins             ████████████████████░░░░░   82.97% 
+Emvc_assist              10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -38,7 +39,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2021
+ Last Updated on 28/12/2021
 <!--END_SECTION:waka-->
 
 ## Technical skills
