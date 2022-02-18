@@ -15,13 +15,15 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   14 mins             ████████████████░░░░░░░░░   65.81% 
+C++                      7 mins              ████████░░░░░░░░░░░░░░░░░   34.19%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          20 mins             ████████████████████████░   97.18% 
+Non disclosed Project    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.0%
 
 ```
 
@@ -38,7 +40,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2022 18:39:26 UTC
+ Last Updated on 18/02/2022 18:41:07 UTC
 <!--END_SECTION:waka-->
 
 ## Technical skills
