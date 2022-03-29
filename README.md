@@ -4,7 +4,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/b864c643-d1a3-41f5-9e0f-8ecf20a95c65.svg)](https://wakatime.com/@b864c643-d1a3-41f5-9e0f-8ecf20a95c65)
 
----
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K74LSLU)
 
 <!--START_SECTION:waka-->
