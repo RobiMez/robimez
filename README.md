@@ -1,6 +1,6 @@
 # Robi
 
-[![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&hide_border=true&count_private=true&show_icons=true&theme=dark)](https://github.com/RobiMez)
+[![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&count_private=true&show_icons=true&theme=dark)](https://github.com/RobiMez)
 
 [![wakatime](https://wakatime.com/badge/user/b864c643-d1a3-41f5-9e0f-8ecf20a95c65.svg)](https://wakatime.com/@b864c643-d1a3-41f5-9e0f-8ecf20a95c65)
 
