@@ -1,4 +1,4 @@
-# Robi
+# Robi - ON HAITUS CUS UNI
 
 [![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/RobiMez)
 
