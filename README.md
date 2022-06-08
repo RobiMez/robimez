@@ -1,4 +1,4 @@
-# Robi - ON HAITUS CUS UNI
+# Robi 
 
 [![Robi's github stats](https://github-readme-stats-lime-theta.vercel.app/api?username=robimez&count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/RobiMez)
 
@@ -7,36 +7,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K74LSLU)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   19 repos            ██████████████░░░░░░░░░░░   55.88% 
-JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
-
-```
-
-
-
- Last Updated on 28/03/2022 18:44:09 UTC
 <!--END_SECTION:waka-->
 
 ## Technical skills
