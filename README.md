@@ -7,7 +7,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K74LSLU)
 
 <!--START_SECTION:waka-->
-
+<a href="https://app.daily.dev/robi"><img src="https://api.daily.dev/devcards/49a7c12bad36434bbb1cfa85dd41a895.png?r=aur" width="140" alt="Robi's Dev Card"/></a>
 <!--END_SECTION:waka-->
 
 ## Technical skills
