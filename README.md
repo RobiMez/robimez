@@ -6,14 +6,15 @@ Pre ai developer
 ![](https://komarev.com/ghpvc/?username=robimez)
 
 Portfolio : robi.work 
+
 Age : 24 
 
 Title : Full-stack Developer 
 Does : SASS , Agents , Devops , IOT , Android development ( kotlin ) 
 
-Professional experience ( Hired ) : 6 years  
-Programming experience : 7 years 
-Countries been to : China | Tiblisi , Georgia 
+- Professional experience ( Hired ) : 6 years  
+- Programming experience : 7 years
+- Countries been to : China | Tiblisi , Georgia 
 
 Projects Decent 
 - sma.et , sma.robi.work [ 100 mau ]
